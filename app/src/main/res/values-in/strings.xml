@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">belajar-android-dasar</string>
+    <string name="nameEditText">Nama:</string>
+    <string name="sayHelloButton">Ucapkan Halo</string>
+    <string name="sayHelloTextView">Halo %1$s</string>
+    <string-array name="names">
+        <item>Eka</item>
+        <item>Putra</item>
+        <item>Juniawan</item>
+    </string-array>
+
+    <string name="computerTextView">Pilihan Komputer</string>
+    <string name="youTextView">Pilihan Anda</string>
+    <string name="resultTextView">Hasil</string>
+
+</resources>
